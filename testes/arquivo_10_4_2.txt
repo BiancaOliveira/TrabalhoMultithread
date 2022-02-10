@@ -1,0 +1,12 @@
+Thread-10, 0, 5
+Thread-13, 2, 6
+Thread-11, 1, 8
+Thread-12, 3, 8
+Thread-11, 6, 3
+Thread-12, 7, 3
+Thread-10, 4, 7
+Thread-13, 5, 7
+Thread-11, 8, 3
+Thread-12, 9, 8
+Demorou 19 segundos
+

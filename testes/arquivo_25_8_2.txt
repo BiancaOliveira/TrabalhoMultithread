@@ -1,0 +1,27 @@
+Thread-140, 6, 1
+Thread-134, 0, 2
+Thread-137, 1, 3
+Thread-141, 3, 6
+Thread-138, 7, 6
+Thread-135, 4, 7
+Thread-137, 10, 5
+Thread-136, 2, 8
+Thread-139, 5, 8
+Thread-138, 12, 2
+Thread-140, 8, 7
+Thread-134, 9, 7
+Thread-138, 18, 1
+Thread-137, 14, 3
+Thread-141, 11, 5
+Thread-140, 17, 3
+Thread-139, 16, 5
+Thread-135, 13, 7
+Thread-134, 19, 6
+Thread-138, 20, 6
+Thread-136, 15, 8
+Thread-140, 23, 6
+Thread-137, 21, 9
+Thread-141, 22, 9
+Thread-139, 24, 9
+Demorou 22 segundos
+

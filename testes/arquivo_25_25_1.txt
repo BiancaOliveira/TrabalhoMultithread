@@ -1,0 +1,27 @@
+Thread-186, 6, 1
+Thread-192, 18, 1
+Thread-174, 0, 2
+Thread-180, 12, 2
+Thread-196, 14, 3
+Thread-191, 17, 3
+Thread-176, 1, 3
+Thread-190, 16, 5
+Thread-184, 10, 5
+Thread-185, 11, 5
+Thread-175, 3, 6
+Thread-187, 7, 6
+Thread-181, 20, 6
+Thread-193, 19, 6
+Thread-197, 23, 6
+Thread-183, 4, 7
+Thread-182, 8, 7
+Thread-194, 13, 7
+Thread-178, 9, 7
+Thread-189, 15, 8
+Thread-179, 5, 8
+Thread-177, 2, 8
+Thread-195, 21, 9
+Thread-188, 22, 9
+Thread-198, 24, 9
+Demorou 9 segundos
+

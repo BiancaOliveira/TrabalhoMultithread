@@ -1,0 +1,12 @@
+Thread-25, 7, 3
+Thread-24, 6, 3
+Thread-22, 0, 5
+Thread-24, 8, 3
+Thread-28, 2, 6
+Thread-27, 5, 7
+Thread-26, 4, 7
+Thread-23, 1, 8
+Thread-29, 3, 8
+Thread-25, 9, 8
+Demorou 11 segundos
+

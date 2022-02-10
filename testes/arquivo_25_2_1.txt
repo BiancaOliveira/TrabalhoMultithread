@@ -1,0 +1,27 @@
+Thread-114, 0, 2
+Thread-115, 1, 3
+Thread-115, 3, 6
+Thread-114, 2, 8
+Thread-115, 4, 7
+Thread-115, 6, 1
+Thread-114, 5, 8
+Thread-115, 7, 6
+Thread-114, 8, 7
+Thread-115, 9, 7
+Thread-114, 10, 5
+Thread-114, 12, 2
+Thread-115, 11, 5
+Thread-115, 14, 3
+Thread-114, 13, 7
+Thread-114, 16, 5
+Thread-115, 15, 8
+Thread-115, 18, 1
+Thread-114, 17, 3
+Thread-115, 19, 6
+Thread-114, 20, 6
+Thread-115, 21, 9
+Thread-114, 22, 9
+Thread-115, 23, 6
+Thread-114, 24, 9
+Demorou 71 segundos
+

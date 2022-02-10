@@ -1,0 +1,12 @@
+Thread-5, 5, 4
+Thread-1, 1, 4
+Thread-2, 2, 6
+Thread-3, 3, 7
+Thread-4, 4, 8
+Thread-2, 8, 3
+Thread-0, 0, 9
+Thread-6, 6, 9
+Thread-1, 7, 5
+Thread-5, 7, 5
+Thread-3, 9, 7
+Demorou 14 segundos
