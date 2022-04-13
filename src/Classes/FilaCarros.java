@@ -58,7 +58,24 @@ public class FilaCarros {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            //System.out.println(" Consome = "+ temp.getId() + " tempo = " + temp.getTempo());
 
+//            //gravar no arquivo
+//            try {
+//                File arquivo = new File(file);
+//                if (!arquivo.exists()) {
+//                    //cria um arquivo (vazio)
+//                    arquivo.createNewFile();
+//                }
+//                FileWriter fw = new FileWriter(arquivo, true);
+//                BufferedWriter bw = new BufferedWriter(fw);
+//                bw.write(+ temp.getId() + ", " + temp.getTempo());
+//                bw.newLine();
+//                bw.close();
+//                fw.close();
+//            } catch (IOException ex) {
+//                ex.printStackTrace();
+//            }
         }
 
     }
