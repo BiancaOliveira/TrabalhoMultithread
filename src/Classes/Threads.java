@@ -5,7 +5,7 @@ public class Threads {
     int n;
     Thread th[];
     int op;
-    //String file;
+
 
     public Threads (int n /*String arq*/){
         this.n = n;
@@ -39,9 +39,6 @@ public class Threads {
 
         public consumidor(FilaCarros _b){
             b= _b;
-/*
-            b.imprimir();
-*/
         }
         public void run(){
             Carro temp;
@@ -84,7 +81,6 @@ public class Threads {
 //                    ex.printStackTrace();
 //                }
             }
-//            System.out.println(" threads ativas " + Thread.activeCount());
         }
     }
 }
