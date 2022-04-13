@@ -59,24 +59,6 @@ public class FilaCarros {
                 e.printStackTrace();
             }
 
-            //System.out.println(" Consome = "+ temp.getId() + " tempo = " + temp.getTempo());
-
-//            //gravar no arquivo
-//            try {
-//                File arquivo = new File(file);
-//                if (!arquivo.exists()) {
-//                    //cria um arquivo (vazio)
-//                    arquivo.createNewFile();
-//                }
-//                FileWriter fw = new FileWriter(arquivo, true);
-//                BufferedWriter bw = new BufferedWriter(fw);
-//                bw.write(+ temp.getId() + ", " + temp.getTempo());
-//                bw.newLine();
-//                bw.close();
-//                fw.close();
-//            } catch (IOException ex) {
-//                ex.printStackTrace();
-//            }
         }
 
     }
@@ -88,8 +70,7 @@ public class FilaCarros {
         }catch(Exception e){
 
         }
-   /*     int aux = p;*/
-//        System.out.println(" count = " + count);
+
         Carro valor=buffer[p];
         p =(p+1)%n;
         count--;
@@ -101,7 +82,6 @@ public class FilaCarros {
 
     public Carro semProtecao() {// sem proteção da seção critica
 
-        /*int aux = p;*/
         Carro valor=buffer[p];
         p =(p+1)%n;
         count --;
