@@ -1,1 +1,2 @@
 # TrabalhoMultithread
+O presente trabalho tem como objetivo simular o uso de elevadores automotivos em uma oficina mecânica utilizando uma aplicação single thread e uma multithread, e alterando a execução delas com e sem a proteção da seção crítica, a fim de, posteriormente comparar o desempenho de ambas as abordagens, assim como identificar a importância da proteção da seção crítica em aplicação multithread. 
